@@ -21,7 +21,7 @@ import java.util.Locale;
 *	b) support more languages
 * 	c) support for new kinds of report formats (XML report planned for next iteration) 
 *
-* You can make any change you see fit in the code.
+* You can make any change you see fit in the code
 */
 public class BigDevice {
 	// named constants for different types of devices
