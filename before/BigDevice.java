@@ -1,4 +1,6 @@
-package before;/*
+package before;
+
+/*
 * DISCLAIMER
 * 
 * 1) This source code has been provided as-is for the purpose of learning 
